@@ -1,0 +1,12 @@
+D:/stm32f7-Baremetal/Chip_headers/CMSIS/Include/core_cm7.h:1896:22:__NVIC_EnableIRQ	16	static
+../Src/uart.c:30:5:__io_putchar	16	static
+../Src/uart.c:36:6:uart3_tx_init	8	static
+../Src/uart.c:64:6:uart3_rxtx_interrupt_init	8	static
+../Src/uart.c:109:6:uart3_rxtx_init	8	static
+../Src/uart.c:148:9:uart_read	16	static
+../Src/uart.c:154:6:uart_write	16	static
+../Src/uart.c:165:13:uart_enable	16	static
+../Src/uart.c:170:13:set_uart_tranfer_direction	16	static
+../Src/uart.c:176:13:uart_set_baudrate	24	static
+../Src/uart.c:181:13:config_uart_parameters	24	static
+../Src/uart.c:189:17:compute_uart_div	16	static

@@ -1,0 +1,5 @@
+D:/stm32f7-Baremetal/Chip_headers/CMSIS/Include/core_cm7.h:1896:22:__NVIC_EnableIRQ	16	static
+../Src/spi.c:14:6:spi1_config	8	static
+../Src/spi.c:100:6:spi3_config	8	static
+../Src/spi.c:186:6:spi1_activate	4	static
+../Src/spi.c:192:6:spi3_activate	4	static
